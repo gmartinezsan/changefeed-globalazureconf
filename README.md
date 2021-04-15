@@ -3,25 +3,25 @@ Code and Slides from the talk at Global Azure Conf 2021
 
 ## Links and resources
 
-### Get your Azure 30 day free trial
+### Azure 30 day free trial
 [http://azure.microsoft.com](http://azure.microsoft.com)
 
-### Free try of 30 days of Cosmos DB (no subscription or credit-card number required)
+### 30 days of Cosmos DB (no requiere subscripcion o credit-card number)
 [http://azure.microsoft.com/en-us/try/cosmosdb/](http://azure.microsoft.com/en-us/try/cosmosdb/)
 
-### For local development use the Local Emulator (no internet needed).
+### Para local development Local Emulator (no internet).
 [http://aka.ms/cosmosdb-emulator](http://aka.ms/cosmosdb-emulator)
 
-### The Azurite Emulator 
+### Azurite Emulator 
 [https://aka.ms/azurecom-tool-dl-azurite](https://aka.ms/azurecom-tool-dl-azurite)
 
-### The Azure Functions extension for VSCode.
+### Azure Functions extension para VSCode.
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
 
 ### Azure Storage Emulator
-If you work with Windows you can use the official [Azure Storage Emulator](https://go.microsoft.com/fwlink/?LinkId=717179&clcid=0x409) and the [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) app. 
+Para Windows [Azure Storage Emulator](https://go.microsoft.com/fwlink/?LinkId=717179&clcid=0x409) y [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/). 
 
-For OS X and Linux [Azurite](https://aka.ms/azurecom-tool-dl-azurite) is the tool. 
+Para OS X y Linux [Azurite](https://aka.ms/azurecom-tool-dl-azurite) es la herramienta. 
 
-### Other platforms to learn about Cosmos DB
+### Otras plataformas para aprender
 - Pluralsight
